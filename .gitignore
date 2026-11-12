@@ -1,0 +1,15 @@
+# Secrets: never commit real keys. Only .env.example (placeholders) is tracked.
+.env
+.env.*
+!.env.example
+
+# Local Python environment and caches
+.venv/
+__pycache__/
+*.pyc
+
+# Editor / OS clutter
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
