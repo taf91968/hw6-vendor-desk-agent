@@ -9,7 +9,9 @@
 
 ## Problem 1 — Vibe Code Prompt
 
-_Assignment text: pending._
+- Create `AI_Prompt.md`, record each assignment in it, and keep it updated.
+
+**Status: done.** This file holds the assignment text for every problem, with a status note for each.
 
 ---
 
